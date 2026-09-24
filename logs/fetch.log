@@ -673,3 +673,18 @@
 2026-09-23 15:13:09,647 [INFO] MSN: ✓ 1 dòng
 2026-09-23 15:13:12,887 [INFO] BID: ✓ 1 dòng
 2026-09-23 15:13:12,888 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
+2026-09-24 15:31:56,204 [INFO] Fetch từ 2026-09-23 → 2026-09-23
+2026-09-24 15:31:56,537 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-09-24 15:31:56,594 [INFO] generated new fontManager
+2026-09-24 15:31:58,905 [INFO] Device registered: 5c8a21d3e748f888ec31ead155962acd (version 0.0.1)
+2026-09-24 15:32:03,061 [INFO] VCB: ✓ 1 dòng
+2026-09-24 15:32:06,296 [INFO] VIC: ✓ 1 dòng
+2026-09-24 15:32:09,386 [INFO] VHM: ✓ 1 dòng
+2026-09-24 15:32:12,020 [INFO] HPG: ✓ 1 dòng
+2026-09-24 15:32:14,643 [INFO] TCB: ✓ 1 dòng
+2026-09-24 15:32:17,079 [INFO] MBB: ✓ 1 dòng
+2026-09-24 15:32:19,710 [INFO] VNM: ✓ 1 dòng
+2026-09-24 15:32:22,652 [INFO] FPT: ✓ 1 dòng
+2026-09-24 15:32:25,128 [INFO] MSN: ✓ 1 dòng
+2026-09-24 15:32:27,560 [INFO] BID: ✓ 1 dòng
+2026-09-24 15:32:27,560 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
